@@ -10,9 +10,31 @@
 ![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/arrows.png "Buttons")
 
 Примарниот начин да се освојат поени е со чистење на линии преку пополнување на хоризонтален ред од матрицата. За да се исчисти линија, секој квадрат мора да биде пополнет. За да се постигне ова треба да се движат и ротираат Tetriminos така што ќе бидат рамномерно распоредени на дното на матрицата.
-###1.2 Нова игра
-За да се започне нова игра треба да се внесе име и да се притисне на копчето Start. Со тоа, веднаш започнува нова игра со празна матрица.
+###1.2 Изглед на играта 
+Почетниот прозорец има три копчиња. New game, High scores, Need help? - објаснети во точка 1.3, 1.5 и 1.6. 
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/intf.png)
+###1.3 Нова игра
+За да се започне нова игра треба да се притисне на копчето New game. Се појавува нов прозорец каде што треба да се внесе име и да се притисне на копчето Start. Внесувањето на име е задолжително. Со тоа, веднаш започнува нова игра со празна матрица.
 
 Прозорец за нова игра:
 
 ![Прозорец за нова игра](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/newgame.png)
+
+Почеток на играта:
+
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/start.png)
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/play.png)
+
+Во текот на играта може да се види колку поени се освоени и колку линии се исчистени. Исто така може да се види и името на играчот и кое ниво е тој.  
+###1.4 Крај на играта
+Играта завршува кога Tetrimino ќе дојде до горниот дел на матрицата. Се појавува прозорец кој известува колку поени освоил играчот.
+
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/end.png)
+###1.5 High scores
+Со притиснување на копчето High scores се појавува прозорец со преглед на најдобрите постигнати резултати. 
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/highscore.png)
+
+1.6 Need help?
+Со притиснување на копчето Need help? се покажува прозорец со кратко упатство за начинот на игра. 
+
+![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/needhelp.png)
