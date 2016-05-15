@@ -34,7 +34,7 @@
 Со притиснување на копчето High scores се појавува прозорец со преглед на најдобрите постигнати резултати. 
 ![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/highscore.png)
 
-1.6 Need help?
+###1.6 Need help?
 Со притиснување на копчето Need help? се покажува прозорец со кратко упатство за начинот на игра. 
 
 ![](https://github.com/DinaGitova/tetris-game/blob/master/screenshots/needhelp.png)
